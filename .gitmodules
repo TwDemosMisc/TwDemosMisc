@@ -1,0 +1,21 @@
+[submodule "other_players"]
+	path = other_players
+	url = https://github.com/TwDemosMisc/other_players
+[submodule "4others"]
+	path = 4others
+	url = https://github.com/TwDemosMisc/4others
+[submodule "spec_is_cancer"]
+	path = spec_is_cancer
+	url = https://github.com/TwDemosMisc/spec_is_cancer
+[submodule "used_demos"]
+	path = used_demos
+	url = https://github.com/TwDemosMisc/used_demos
+[submodule "karma"]
+	path = karma
+	url = https://github.com/TwDemosMisc/karma
+[submodule "proof_and_war"]
+	path = proof_and_war
+	url = https://github.com/TwDemosMisc/proof_and_war
+[submodule "crashes"]
+	path = crashes
+	url = https://github.com/TwDemosMisc/crashes
